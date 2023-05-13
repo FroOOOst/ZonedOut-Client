@@ -1,6 +1,6 @@
 # 
 <p align="center">
-<img src="(https://i.imgur.com/UeKEJ8Hb.jpg)" width="200" height="200"/>
+<img src="https://i.imgur.com/UeKEJ8Hb.jpg" width="200" height="200"/>
 </p>
 <h1 align="center">BetterClient</h1>
 <h3 align="center">BetterClient is an Modification for Discord Easy To Use<br>
