@@ -1,6 +1,6 @@
 # 
 <p align="center">
-<img src="https://i.imgur.com/9SIzkOO.png" width="200" height="200"/>
+<img src="![image](https://github.com/FroOOOst/BetterClient/assets/131593142/976f1c15-898e-4197-a9ac-c80c684f0ab8)" width="200" height="200"/>
 </p>
 <h1 align="center">Inane</h1>
 <h3 align="center">Inane is an advanced and easy to use logger<br>
