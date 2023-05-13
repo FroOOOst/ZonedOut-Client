@@ -1,5 +1,6 @@
 # BetterClient
 The Best Discord Modifications Client that did well !
 
-![image](https://github.com/FroOOOst/BetterClient/assets/131593142/9a5d482e-7751-4f78-8689-7c50d8d5eba5)
+![image](https://github.com/FroOOOst/BetterClient/assets/131593142/867a3a0a-443a-4ae2-a7f9-3d433a2063a2)
+
 
