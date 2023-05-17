@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/LmuHhjx.png" alt="App Download" width="200" height"auto"></a><br><br>
 
   
-  ## 🎆 Screenshots
+
   
   
   
